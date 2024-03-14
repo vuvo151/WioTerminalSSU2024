@@ -6,6 +6,9 @@ extern const int imsArr[]; // Declare imsArr array
 
 extern const uint32_t ssuLogo[]; // Declare imsArr array
 
+extern const uint32_t humidLogo[];
+extern const uint32_t tempLogo[];
+
 #endif
 
 
